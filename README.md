@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -14,10 +15,12 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -31,4 +34,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
