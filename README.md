@@ -4,10 +4,12 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -25,4 +27,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
