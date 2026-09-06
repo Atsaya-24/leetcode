@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Atsaya-24/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atsaya-24/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Atsaya-24/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Atsaya-24/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Atsaya-24/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
