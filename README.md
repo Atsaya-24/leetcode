@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Atsaya-24/leetcode/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/Atsaya-24/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Atsaya-24/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Atsaya-24/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Atsaya-24/leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
