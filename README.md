@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Atsaya-24/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Atsaya-24/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Atsaya-24/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Atsaya-24/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atsaya-24/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Atsaya-24/leetcode/tree/main/0136-single-number/) | Easy |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Atsaya-24/leetcode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Atsaya-24/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Atsaya-24/leetcode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Atsaya-24/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Atsaya-24/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Atsaya-24/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -142,4 +145,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Atsaya-24/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Atsaya-24/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
