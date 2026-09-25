@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atsaya-24/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Atsaya-24/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Atsaya-24/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Atsaya-24/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -97,6 +98,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Atsaya-24/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Atsaya-24/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Atsaya-24/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
