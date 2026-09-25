@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atsaya-24/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Atsaya-24/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Atsaya-24/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Atsaya-24/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Atsaya-24/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Atsaya-24/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -109,6 +110,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Atsaya-24/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -122,4 +124,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Atsaya-24/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Atsaya-24/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
